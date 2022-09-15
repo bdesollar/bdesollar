@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/ben-desollar/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=sociale&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     <a href="https://bdesollar.github.io/">
-      <img src="https://img.shields.io/badge/Personal%20Website-Visit-blue?style=social&logo=github" alt="Personal Website Badge"/>
+      <img src="https://img.shields.io/badge/Personal%20Website--blue?style=social&logo=github" alt="Personal Website Badge"/>
     </a>
   </div>
     <img src="https://komarev.com/ghpvc/?username=bdesollar&style=flat-square&color=blue" alt=""/>
