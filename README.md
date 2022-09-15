@@ -20,7 +20,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the US.
 - :telescope: I am a Computer Science and Engineering Student and and I love contributing to front and back end web applications.
 
-- 💼: Outside of coding I am the Founder and CEO of my own small business
+- 💼 Outside of coding I am the Founder and CEO of my own small business
 
 - :zap: In my free time, I solve problems on Leetcode and reading tech articles.
 
