@@ -17,8 +17,8 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the US.
-- :telescope: I am a Computer Science and Engineering Student and and I love contributing to front and back end web applications.
+I am a Computer Science and Engineering Student at the University of Iowa <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :telescope: I am a Full Stack Developer and and I love contributing to front and back end web applications.
 
 - 💼 Outside of coding I am the Founder and CEO of my own small business
 
