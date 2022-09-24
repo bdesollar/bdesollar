@@ -22,7 +22,7 @@ I am a Computer Science and Engineering Student at the University of Iowa <img s
 
 - 💼 Outside of coding I am the Founder and CEO of my own small business
 
-- :zap: In my free time, I solve problems on Leetcode and reading tech articles.
+- :zap: In my free time, I like to solve coding problems on Leetcode, read tech articles, and workout.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ben-desollar/)
 
