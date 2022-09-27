@@ -24,7 +24,7 @@ I am a Computer Science and Engineering Student at the University of Iowa <img s
 
 - :zap: In my free time, I like to solve coding problems on Leetcode, read tech articles, and workout.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ben-desollar/)
+- :mailbox:Check out my LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ben-desollar/) and I get a lot of messages from recruiters. To respect both of our time, instead of messaging me, please fill out this form: https://forms.gle/BLmkJwLj7VvtxX326
 
 ---
 
