@@ -24,7 +24,7 @@ Current Computer Science and Engineering Student, dual enrolled in the Master of
 
 - :zap: In my free time, I like to solve coding problems on Leetcode, read tech articles, and workout.
 
-- :mailbox:Check out my LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ben-desollar/) and I get a lot of messages from recruiters. To respect both of our time, instead of messaging me, please fill out this form: [Form](https://forms.gle/BLmkJwLj7VvtxX326)
+- :mailbox:Check out my LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ben-desollar/) and I get a lot of messages from recruiters. To respect both of our time, instead of messaging me, please fill out this [form](https://forms.gle/BLmkJwLj7VvtxX326)
 
 ---
 
