@@ -17,7 +17,7 @@
 ---
 
 ### :man_technologist: About Me :
-Current Computer Science and Engineering Student, dual enrolled in the Master of Computer Science Grad Program at the University of Iowa <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Current Computer Science and Engineering Student, enrolled in the Master of Science in Electrical and Computer Engineering with a focus on AI and ML at the University of Iowa <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I am a Full Stack Developer and and I love contributing to front and back end web applications.
 
 - 💼 Outside of coding I am the Founder and CEO of my own small business
