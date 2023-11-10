@@ -20,9 +20,9 @@
 Current Computer Science and Engineering Student, enrolled in the Master of Science in Electrical and Computer Engineering with a focus on AI and ML at the University of Iowa <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I am a Full Stack Developer and and I love contributing to front and back end web applications.
 
-- 💼 Outside of coding I am the Founder and CEO of my own small business
+- 💼 Outside of coding I have founded two startups and raised 15k in funding.
 
-- :zap: In my free time, I like to solve coding problems on Leetcode, read tech articles, and workout.
+- :zap: In my free time, I like to creat mini projects, read tech articles, and workout.
 
 - :mailbox:Check out my LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ben-desollar/)
 
