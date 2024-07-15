@@ -2,8 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/ben-desollar/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=sociale&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     <a href="https://bdesollar.github.io/">
       <img src="https://img.shields.io/badge/Personal%20Website--blue?style=social&logo=github" alt="Personal Website Badge"/>
     </a>
@@ -18,12 +17,12 @@
 ---
 
 ### :man_technologist: About Me :
-I am a current graduate student in Electrical and Computer Engineering with a focus on AI and ML at the University of Iowa <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: I am a Full Stack Developer and I love contributing to front and back end web applications.
+My name is Benjamin DeSollar, and I hold a Master's degree in Electrical and Computer Engineering from the University of Iowa, with a focus in Software Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :telescope: I am a Full Stack Developer and I love contributing to front and back-end web and mobile applications.
 
 - 💼 Outside of coding, I have founded two startups and raised $15,000 in funding.
 
-- :zap: In my free time, I like to create mini projects, read tech articles, and workout.
+- :zap: In my free time, I like to create mini projects, read tech articles, and work out.
 
 - :mailbox: Check out my LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ben-desollar/)
 
